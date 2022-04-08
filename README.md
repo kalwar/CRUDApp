@@ -1,6 +1,6 @@
 # CRUDApp
 
-This simple project is used for learning how to use PHP and MySQL together for CREATE, READ, UPDATE and DELETE operations.
+This simple project is used for learning how to use PHP and MySQL together for CREATE(C), READ(R), UPDATE(U) and DELETE(D) operations.
 
 # Steps to follow
 
